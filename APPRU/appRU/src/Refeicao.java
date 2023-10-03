@@ -1,0 +1,3 @@
+public class Refeicao {
+    //lista de tickets usados e etc...
+}
